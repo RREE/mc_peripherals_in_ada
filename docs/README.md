@@ -1,8 +1,27 @@
-## Welcome to GitHub Pages
+## Welcome to Micro Controller Peripherals in Ada
 
-You can use the [editor on GitHub](https://github.com/RREE/mc_peripherals_in_ada/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This site lists various micro-controller boards that can be used with the programming language Ada. Currently we are focused on AVR boards as we have an Ada compiler only for these processors.  We are planning to extend it to also cover ESP8266 and ESP32 boards.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Boards
+
+- Arduino Uno
+- Arduino Nano V3
+- ESP-01
+
+### AVR Internal Units
+
+- 8bit Timers
+- 16bit Timers
+- UART for Serial Communication
+- Analog/Digital Converter
+
+### Input Devices
+
+- Key
+
+### Output Devices
+
+- LED
 
 ### Markdown
 
