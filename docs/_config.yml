@@ -1,3 +1,8 @@
 theme: jekyll-theme-slate
 title: Micro Controller Peripherals and Drivers in Ada
 description: Listing of various built-in in and external sensors and actors for micro controllers, notably AVR, ESP8266 and ESP32. We also provide driver packages in Ada and some usage examples.
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
