@@ -27,7 +27,7 @@ This site lists various micro-controller boards that can be used with the progra
 
 ### Output Devices
 
-- LED
+- [LED](/output/LED.md)
 - IO Expander
 - Displays
   - Single 7-Segment Digit
