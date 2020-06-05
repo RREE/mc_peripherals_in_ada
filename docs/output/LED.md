@@ -4,7 +4,7 @@ The simplest output device on a micro controller. A LED can typically be connect
 
 ## Image
 
-![LED](/img/LED.jpg)
+![LED](../img/LED.jpg)
 
 ## Info
 
