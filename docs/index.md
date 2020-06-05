@@ -4,12 +4,16 @@ This site lists various micro-controller boards that can be used with the progra
 
 ### Boards
 
-- Arduino Uno (atmega328p)
-- Arduino Nano V3 (atmega328p)
-- _ESP-01_ (esp8266)
+- [Arduino Uno](/boards/arduino_uno) (atmega328p)
+- [Arduino Nano V3](/boards/arduino_nano) (atmega328p)
+- [_ESP-01_](/boards/esp01) (esp8266)
+- [_Wemos / Lolin D1 Mini_](/boards/wemos_d1_mini) (esp8266)
+- [_ESP32_](/boards/esp32) (esp-32)
 
 ### AVR Internal Units
 
+- GPIO
+- Interrupts triggered at GPIOs
 - 8bit Timers
 - 16bit Timers
 - UART for Serial Communication
@@ -17,12 +21,20 @@ This site lists various micro-controller boards that can be used with the progra
 
 ### Input Devices
 
-- Key
-- Potentiometer (variable resistor)
+- Keys
+  - Single [Button](/input/button)
+  - [Potentiometer] (variable resistor)
+  - [Dual Axis Joystick]
+  - [Playstation PS2 Controller]
+  - [Capacitive Touch Sensor]
 - Voltage Meter
-- One-Wire
-  - Temperature Sensor 18B20
-- DHT22, Temperature / Humidity Sensor
+- Current Sensor [INA219]
+- Temperature Sensors 
+  - One-Wire Sensor [18B20](/input/18b20)
+- Temperature and Humidity Sensors
+  - [DHT22](/input/dht22)
+- Temperature and Pressure Sensors
+  - [BMP280]
 
 
 ### Output Devices
@@ -30,9 +42,9 @@ This site lists various micro-controller boards that can be used with the progra
 - [LED](/output/LED.md)
 - IO Expander
 - Displays
-  - Single 7-Segment Digit
-  - 4 7-Segment Digits
-  - 2 lines of 4 7-segment digits
+  - Single Digit 7-Segment 
+  - 4 Digits 7-Segment 
+  - 2 rows of 4 7-segment digits
   - LCD 1602 (2 lines of 16 characters), directly driven
   - LCD 2004 (4 lines of 20 characters), via IO expander
 

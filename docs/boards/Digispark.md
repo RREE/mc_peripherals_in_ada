@@ -6,11 +6,6 @@
 
 <http://digistump.com/wiki/digispark/>
 
-
-## Image
-
+![Digispark](../img/Digispark-attiny85_300.png)
 
 ## Info
-
-
-## Source
