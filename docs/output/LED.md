@@ -2,7 +2,7 @@
 
 The simplest output device on a micro controller. A LED can typically be connected directly to a GPIO pin. Use an appropriate resistor to limit the current (100 .. 1k).
 
-![LED](../img/LED_100.jpg)
+![LED](LED_100.png)
 
 
 ## Ada
